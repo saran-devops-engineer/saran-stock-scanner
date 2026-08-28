@@ -1,0 +1,90 @@
+
+> ema-scanner@0.1.0 dev
+> next dev
+
+▲ Next.js 16.3.2 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.13:3000
+✓ Ready in 1638ms
+✓ Running next.config.ts took 122ms
+
+ GET / 200 in 1655ms (next.js: 1072ms, application-code: 583ms)
+ GET / 200 in 236ms (next.js: 28ms, application-code: 208ms)
+ GET /api/chart?symbol=RELIANCE.NS&interval=1d&range=5d 200 in 1581ms (next.js: 1291ms, application-code: 290ms)
+ GET / 200 in 203ms (next.js: 31ms, application-code: 173ms)
+ GET /api/chart?symbol=RELIANCE.NS&interval=1wk&range=max 200 in 429ms (next.js: 18ms, application-code: 411ms)
+ GET /api/chart?symbol=TCS.NS&interval=1wk&range=max 200 in 168ms (next.js: 8ms, application-code: 160ms)
+ GET /api/chart?symbol=INFY.NS&interval=1wk&range=max 200 in 268ms (next.js: 14ms, application-code: 255ms)
+ GET /api/chart?symbol=HDFCBANK.NS&interval=1wk&range=max 200 in 236ms (next.js: 13ms, application-code: 223ms)
+ GET /api/chart?symbol=ICICIBANK.NS&interval=1wk&range=max 200 in 192ms (next.js: 14ms, application-code: 177ms)
+ GET /api/chart?symbol=RELIANCE.NS&interval=1d&range=max 200 in 665ms (next.js: 10ms, application-code: 654ms)
+ GET /api/chart?symbol=TCS.NS&interval=1d&range=max 200 in 468ms (next.js: 6ms, application-code: 462ms)
+ GET /api/chart?symbol=INFY.NS&interval=1d&range=max 200 in 245ms (next.js: 46ms, application-code: 200ms)
+ GET /api/chart?symbol=HDFCBANK.NS&interval=1d&range=max 200 in 246ms (next.js: 8ms, application-code: 238ms)
+ GET /api/chart?symbol=ICICIBANK.NS&interval=1d&range=max 200 in 236ms (next.js: 6ms, application-code: 231ms)
+ GET /api/chart?symbol=RELIANCE.NS&interval=1d&range=max 200 in 315ms (next.js: 27ms, application-code: 288ms)
+ GET /api/chart?symbol=TCS.NS&interval=1d&range=max 200 in 183ms (next.js: 6ms, application-code: 177ms)
+ GET /api/chart?symbol=INFY.NS&interval=1d&range=max 200 in 234ms (next.js: 8ms, application-code: 226ms)
+ GET /api/chart?symbol=HDFCBANK.NS&interval=1d&range=max 200 in 228ms (next.js: 10ms, application-code: 218ms)
+ GET /api/chart?symbol=ICICIBANK.NS&interval=1d&range=max 200 in 165ms (next.js: 10ms, application-code: 155ms)
+✓ Compiled in 149ms
+ GET / 200 in 84ms (next.js: 35ms, application-code: 49ms)
+✓ Compiled in 227ms
+ GET / 200 in 96ms (next.js: 28ms, application-code: 67ms)
+✓ Compiled in 117ms
+ GET / 200 in 150ms (next.js: 42ms, application-code: 108ms)
+ GET / 200 in 96ms (next.js: 13ms, application-code: 83ms)
+ GET / 200 in 186ms (next.js: 33ms, application-code: 154ms)
+ GET /api/chart?symbol=RELIANCE.NS&interval=1wk&range=max 200 in 299ms (next.js: 19ms, application-code: 281ms)
+ GET /api/chart?symbol=RELIANCE.NS&interval=1d&range=max 200 in 215ms (next.js: 5ms, application-code: 209ms)
+ GET /api/chart?symbol=RELIANCE.NS&interval=15m&range=60d 200 in 371ms (next.js: 8ms, application-code: 363ms)
+ GET /api/chart?symbol=TCS.NS&interval=1wk&range=max 200 in 156ms (next.js: 7ms, application-code: 150ms)
+ GET /api/chart?symbol=TCS.NS&interval=1d&range=max 200 in 257ms (next.js: 6ms, application-code: 251ms)
+ GET /api/chart?symbol=TCS.NS&interval=15m&range=60d 200 in 185ms (next.js: 5ms, application-code: 179ms)
+ GET /api/chart?symbol=INFY.NS&interval=1wk&range=max 200 in 179ms (next.js: 8ms, application-code: 171ms)
+ GET /api/chart?symbol=INFY.NS&interval=1d&range=max 200 in 634ms (next.js: 6ms, application-code: 628ms)
+ GET /api/chart?symbol=INFY.NS&interval=15m&range=60d 200 in 659ms (next.js: 9ms, application-code: 650ms)
+ GET /api/chart?symbol=HDFCBANK.NS&interval=1wk&range=max 200 in 155ms (next.js: 7ms, application-code: 148ms)
+ GET /api/chart?symbol=HDFCBANK.NS&interval=1d&range=max 200 in 615ms (next.js: 6ms, application-code: 609ms)
+ GET /api/chart?symbol=HDFCBANK.NS&interval=15m&range=60d 200 in 747ms (next.js: 6ms, application-code: 741ms)
+ GET /api/chart?symbol=ICICIBANK.NS&interval=1wk&range=max 200 in 147ms (next.js: 6ms, application-code: 141ms)
+ GET /api/chart?symbol=ICICIBANK.NS&interval=1d&range=max 200 in 323ms (next.js: 5ms, application-code: 318ms)
+ GET /api/chart?symbol=ICICIBANK.NS&interval=15m&range=60d 200 in 224ms (next.js: 5ms, application-code: 219ms)
+ GET / 200 in 577ms (next.js: 416ms, application-code: 162ms)
+ GET / 200 in 161ms (next.js: 23ms, application-code: 138ms)
+ GET / 200 in 215ms (next.js: 20ms, application-code: 195ms)
+ GET / 200 in 185ms (next.js: 19ms, application-code: 166ms)
+ GET / 200 in 269ms (next.js: 20ms, application-code: 250ms)
+ GET / 200 in 195ms (next.js: 18ms, application-code: 176ms)
+ GET / 200 in 206ms (next.js: 26ms, application-code: 180ms)
+ GET / 200 in 121ms (next.js: 18ms, application-code: 104ms)
+ GET / 200 in 113ms (next.js: 21ms, application-code: 91ms)
+ GET / 200 in 226ms (next.js: 52ms, application-code: 174ms)
+ GET / 200 in 192ms (next.js: 16ms, application-code: 176ms)
+ GET / 200 in 212ms (next.js: 23ms, application-code: 189ms)
+ GET / 200 in 121ms (next.js: 24ms, application-code: 97ms)
+ GET / 200 in 139ms (next.js: 18ms, application-code: 121ms)
+ GET / 200 in 122ms (next.js: 10ms, application-code: 112ms)
+ GET / 200 in 126ms (next.js: 19ms, application-code: 107ms)
+ GET / 200 in 138ms (next.js: 14ms, application-code: 124ms)
+ GET / 200 in 141ms (next.js: 16ms, application-code: 125ms)
+ GET / 200 in 126ms (next.js: 19ms, application-code: 108ms)
+ GET / 200 in 120ms (next.js: 14ms, application-code: 105ms)
+ GET / 200 in 121ms (next.js: 11ms, application-code: 111ms)
+ GET / 200 in 120ms (next.js: 12ms, application-code: 108ms)
+ GET / 200 in 169ms (next.js: 13ms, application-code: 156ms)
+ GET / 200 in 157ms (next.js: 14ms, application-code: 143ms)
+✓ Compiled in 439ms
+ GET / 200 in 213ms (next.js: 31ms, application-code: 182ms)
+ GET / 200 in 128ms (next.js: 22ms, application-code: 106ms)
+✓ Compiled in 217ms
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET / 200 in 845ms (next.js: 44ms, application-code: 800ms)
+ GET / 200 in 292ms (next.js: 38ms, application-code: 254ms)
+✓ Compiled in 142ms
+ GET / 200 in 184ms (next.js: 31ms, application-code: 153ms)
+ GET / 200 in 96ms (next.js: 18ms, application-code: 78ms)
+✓ Compiled in 221ms
+ GET / 200 in 108ms (next.js: 30ms, application-code: 77ms)
+ GET / 200 in 107ms (next.js: 20ms, application-code: 87ms)

@@ -1,0 +1,210 @@
+{
+  "summary": {
+    "totalPicks": 19,
+    "withReturns": 5,
+    "wins": 4,
+    "losses": 1,
+    "winRate": 80,
+    "avgReturn": 10.64,
+    "bestPick": {
+      "symbol": "ECLERX",
+      "returnPct": 21.23
+    },
+    "worstPick": {
+      "symbol": "EFCIL",
+      "returnPct": -0.5
+    }
+  },
+  "results": [
+    {
+      "symbol": "JAYBHARATMARUTI",
+      "entryPrice": 123,
+      "currentPrice": null,
+      "target": 190,
+      "sl": null,
+      "date": "2026-06-15T08:15:01+00:00",
+      "returnPct": null,
+      "postText": "#Freshview   Jay Bharat Maruti - 123, 3rd Jan, 2024.   Our favourite pattern breakout for a tgt of 190++"
+    },
+    {
+      "symbol": "PDSL",
+      "entryPrice": 340,
+      "currentPrice": 370,
+      "target": 400,
+      "sl": null,
+      "date": "2026-06-16T06:34:35+00:00",
+      "returnPct": 8.82,
+      "postText": "#Freshview PDSL - 340, 16th June, 2026.Nice breakout from falling wedge pattern. Looking good for 400/460. Support zone 280/290"
+    },
+    {
+      "symbol": "PATELENGINEERING",
+      "entryPrice": 34,
+      "currentPrice": null,
+      "target": 44,
+      "sl": null,
+      "date": "2026-06-24T04:50:23+00:00",
+      "returnPct": null,
+      "postText": "#Freshview Patel Engineering - 34,  24th June, 2026.Nice breakout and looking good for 44/55/66."
+    },
+    {
+      "symbol": "SANSTAR",
+      "entryPrice": 97.5,
+      "currentPrice": 110,
+      "target": null,
+      "sl": null,
+      "date": "2026-06-24T05:42:44+00:00",
+      "returnPct": 12.82,
+      "postText": "#Freshview   Sanstar - 97.50, 27th June, 2025.  Bottom pick for a good reversal. Immediate support 87 and then 80.   Above 106 big breakout. 😊"
+    },
+    {
+      "symbol": "MINDACORP",
+      "entryPrice": 636,
+      "currentPrice": 705,
+      "target": 4,
+      "sl": null,
+      "date": "2026-06-25T04:12:02+00:00",
+      "returnPct": 10.85,
+      "postText": "#Freshview   Mindacorp - 636, 4th June, 2026.  Nice Flag breakout and ready for 4 Digit club"
+    },
+    {
+      "symbol": "PHOENIXMILLS",
+      "entryPrice": 1955,
+      "currentPrice": null,
+      "target": null,
+      "sl": null,
+      "date": "2026-06-30T05:45:20+00:00",
+      "returnPct": null,
+      "postText": "#Freshview Phoenix Mills - 1955, 30th June, 2026. Getting ready for a flag breakout and fly like a  🐦‍🔥 Its an investment pick for midterm.  Can add now and in dips also around 1750/1800."
+    },
+    {
+      "symbol": "MUTHOOTMICROFINANCE",
+      "entryPrice": 207,
+      "currentPrice": null,
+      "target": null,
+      "sl": null,
+      "date": "2026-07-03T08:50:13+00:00",
+      "returnPct": null,
+      "postText": "#Freshview   Muthoot Micro Finance - 207, 5th May, 2026.  Nice breakout after a long consolidation and ready for new journey towards 280+.   Can buy on dips also around 190. Support 180 on daily closing basis."
+    },
+    {
+      "symbol": "ECLERX",
+      "entryPrice": 1620,
+      "currentPrice": 1964,
+      "target": null,
+      "sl": null,
+      "date": "2026-07-15T05:34:29+00:00",
+      "returnPct": 21.23,
+      "postText": "#Freshview   Eclerx - 1620, 17th April, 2026.  Ascending wedge pattern and Nice bottom. Investment pick. Can add now and in dips also.   Tgt top of the wedge."
+    },
+    {
+      "symbol": "STEELSTRIPSWHEELS",
+      "entryPrice": 223,
+      "currentPrice": null,
+      "target": 250,
+      "sl": null,
+      "date": "2026-07-27T05:09:58+00:00",
+      "returnPct": null,
+      "postText": "#Freshview   Steel Strips Wheels - 223, 6th May, 2025.  Breakout above 226 for 250/290++  Can buy on dips also near 200 if it comes."
+    },
+    {
+      "symbol": "JAYASWALNECO",
+      "entryPrice": 52,
+      "currentPrice": null,
+      "target": null,
+      "sl": null,
+      "date": "2026-07-28T06:50:32+00:00",
+      "returnPct": null,
+      "postText": "#Freshview   Jayaswal Neco - 52,  11th September, 2024.   Nice flag and Pennant pattern. Big breakout above 56. Length of the pole is 40 points hence the target is 96++  Support 43 on closing basis."
+    },
+    {
+      "symbol": "MENONBEARINGS",
+      "entryPrice": 141,
+      "currentPrice": null,
+      "target": null,
+      "sl": null,
+      "date": "2026-07-28T07:10:37+00:00",
+      "returnPct": null,
+      "postText": "#Freshview   Menon Bearings - 141, 29th July, 2025   Looking good for a Trendline breakout.  Can add now and in dips also near 120.  Support zone 111/118."
+    },
+    {
+      "symbol": "ASIANENERGY",
+      "entryPrice": 365,
+      "currentPrice": null,
+      "target": null,
+      "sl": null,
+      "date": "2026-08-03T05:10:03+00:00",
+      "returnPct": null,
+      "postText": "#Freshview   Asian Energy - 365, 22nd May, 2026.  Nice Flag pattern and giving a breakout with volume. Its a monthly chart.  No hurry no worries.  Can buy now and in dips also around 320.   Tgt Double. ✌️"
+    },
+    {
+      "symbol": "KWALITYWALLS",
+      "entryPrice": 34,
+      "currentPrice": null,
+      "target": null,
+      "sl": null,
+      "date": "2026-08-06T06:36:37+00:00",
+      "returnPct": null,
+      "postText": "#Freshview Kwality Walls - 34, 6th August, 2026. Nice channel pattern and breakout from falling wedge within  Looking good to go for the channel top around 44. Support zone 30/32.🍨 🍦"
+    },
+    {
+      "symbol": "KABRAEXTRUSION",
+      "entryPrice": 279,
+      "currentPrice": null,
+      "target": null,
+      "sl": 236,
+      "date": "2026-08-11T04:42:31+00:00",
+      "returnPct": null,
+      "postText": "#Freshview   Kabra Extrusion - 279, 26th Aug, 2025.   Double bottom and W in making. Lets do some bottom 🎣🐠🐟🐡.   SL 236 on closing basis."
+    },
+    {
+      "symbol": "ATALREALTECH",
+      "entryPrice": 31,
+      "currentPrice": null,
+      "target": 36,
+      "sl": null,
+      "date": "2026-08-14T07:03:30+00:00",
+      "returnPct": null,
+      "postText": "#Freshview   Atal Realtech - 31, 26th May, 2026.   Excellent Breakout.  Can add now and in dips around 26.  Looking good for 36, 48, 54++  Support zone 20/22."
+    },
+    {
+      "symbol": "ROLEX",
+      "entryPrice": 183,
+      "currentPrice": null,
+      "target": 280,
+      "sl": null,
+      "date": "2026-08-20T09:05:01+00:00",
+      "returnPct": null,
+      "postText": "#Freshview Rolex - 183, 20th August, 2026.INHS breakout and ready for 280++"
+    },
+    {
+      "symbol": "EFCIL",
+      "entryPrice": 201,
+      "currentPrice": 200,
+      "target": null,
+      "sl": 170,
+      "date": "2026-08-26T06:12:37+00:00",
+      "returnPct": -0.5,
+      "postText": "#Freshview EFCIL - 201, 26th August, 2026. RSI breakout done. Price breakout should follow. Can buy now and in dips also around 180. Closing above 210 more power. SL 170 on closing basis."
+    },
+    {
+      "symbol": "LANCORHOLDING",
+      "entryPrice": 25,
+      "currentPrice": null,
+      "target": null,
+      "sl": null,
+      "date": "2026-08-28T04:40:29+00:00",
+      "returnPct": null,
+      "postText": "#Freshview   Lancor Holding - 25, 22nd  August, 2025.   Just a bottom fishing 🎣 🐠🐟.  Go with a small qty for a full U turn."
+    },
+    {
+      "symbol": "SYNCOMFORMULATION",
+      "entryPrice": 20.5,
+      "currentPrice": null,
+      "target": 27,
+      "sl": null,
+      "date": "2026-08-28T07:55:56+00:00",
+      "returnPct": null,
+      "postText": "#Freshview   Syncom Formulation - 20.50, 27th May, 2025.   Can buy 50% now and remaining in dips around 17.    Looks good for 27, 36++  Support 14."
+    }
+  ]
+}

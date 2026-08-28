@@ -1,0 +1,1 @@
+export { YahooFinanceProvider } from './yahooFinance';
